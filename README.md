@@ -1,2 +1,1 @@
-# pick2real
-pick2real
+a simple script to make inputfile for REAL 
